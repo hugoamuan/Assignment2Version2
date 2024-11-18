@@ -15,5 +15,5 @@ Sam Wilson Aug-25-1982 2.700 D
 David Kim May-30-1979 2.975 D
 Mike Smith May-28-2001 3.125 D
 Test Test Feb-14-1990 4.200 I
-Test Test Feb-14-1990 2.45 D
+Test Test Feb-14-1990 4.200 D
 Lowest Low Sep-1-2001 2.0 I
